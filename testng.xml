@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/Selenium Projects/java8Features"><classes><class name="com.supplier.SupplierTest"><methods><include name="test1"/><include name="test2"/></methods></class><class name="com.tests.BuilderPatternDemoTest"><methods><include name="factoryMethodTest"/></methods></class></classes></test></suite>
